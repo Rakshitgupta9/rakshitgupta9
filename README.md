@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 ![](https://komarev.com/ghpvc/?username=rakshitgupta9&color=blue)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshit9_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshitgupta9) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rakshit9_) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)]([https://linkedin.com/in/rakshitgupta9](https://rakshitgupta9.github.io/Portfolio/index.html)) [![](https://visitcount.itsvg.in/api?id=rakshitgupta9&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshit9_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshitgupta9) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rakshit9_) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://rakshitgupta9.github.io/Portfolio/index.html) [![](https://visitcount.itsvg.in/api?id=rakshitgupta9&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
